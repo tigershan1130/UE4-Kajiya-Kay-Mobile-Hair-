@@ -19,5 +19,6 @@ TODO:
 - Add second offset mesh based for transparency smoothing edges.
 
 Reference:
+
 http://developer.amd.com/wordpress/media/2012/10/Scheuermann_HairSketchSlides.pdf
 https://web.engr.oregonstate.edu/~mjb/cs519/Projects/Papers/HairRendering.pdf
