@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{76604958-4032-EAF7-D308-E3B1405FF72A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MobileHairRendering",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
