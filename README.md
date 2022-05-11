@@ -11,7 +11,7 @@ Note:
 - This rendering requires custom rendering pipeline instead of feeding highlight into diffuse(which makes it look totally wrong). 
 The highlight would look more realistic with the surroundings using this custom kayjiya-kay implementation of the hair with skylight, etc.
 - This project need to enable mobile support for Opengl ES3.1 and uses custom modification on UE4 4.26.2, which you can find here:
-https://github.com/tigershan1130/UnrealEngine-1/commit/11cdd35a9c3d73900d3ea71f018175a0e223e2dd
+https://github.com/tigershan1130/UnrealEngine-1/commit/f50307f95b2a4cbfb6a675dcc3bbf393f0b0ffdf
 
 
 TODO:
