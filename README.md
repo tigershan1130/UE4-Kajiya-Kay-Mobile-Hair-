@@ -1,8 +1,7 @@
 # UE4-Kajiya-Kay-Mobile-Hair-
 Based on Kajiya-Kay Implementing ATI based into Mobile Pipeline in UE4
 
-![alt text](https://github.com/tigershan1130/UE4-Kajiya-Kay-Mobile-Hair-/blob/main/Screenshots/Windows/HighresScreenshot00000.png)
-![alt text](https://github.com/tigershan1130/UE4-Kajiya-Kay-Mobile-Hair-/blob/main/Screenshots/Windows/HighresScreenshot00001.png)
+![image](https://github.com/tigershan1130/UE4-Kajiya-Kay-Mobile-Hair-/assets/39791762/385caebc-2190-4308-82ed-f56607d1b5e1)
 
 Left uses regular BRDF shading
 Right uses kayjiya-kay implementation of the hair cards.
